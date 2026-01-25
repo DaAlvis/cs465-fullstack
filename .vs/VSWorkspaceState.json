@@ -6,8 +6,9 @@
     "\\app_server\\routes",
     "\\app_server\\views",
     "\\app_server\\views\\layouts",
-    "\\app_server\\views\\partials"
+    "\\data",
+    "\\views"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\data\\trips.json",
   "PreviewInSolutionExplorer": false
 }
