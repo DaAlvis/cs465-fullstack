@@ -2,13 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\app_server",
-    "\\app_server\\controllers",
-    "\\app_server\\routes",
-    "\\app_server\\views",
-    "\\app_server\\views\\layouts",
-    "\\data",
-    "\\views"
+    "\\app_server\\models",
+    "\\app_server\\views\\layouts"
   ],
-  "SelectedNode": "\\data\\trips.json",
+  "SelectedNode": "\\app_server\\models\\seed.js",
   "PreviewInSolutionExplorer": false
 }
