@@ -1,10 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\app_api",
+    "\\app_api\\controllers",
+    "\\app_api\\routes",
     "\\app_server",
-    "\\app_server\\models",
-    "\\app_server\\views\\layouts"
+    "\\app_server\\controllers",
+    "\\app_server\\routes",
+    "\\app_server\\views"
   ],
-  "SelectedNode": "\\app_server\\models\\seed.js",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
