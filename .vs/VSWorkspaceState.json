@@ -1,16 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\app_admin",
     "\\app_admin\\src",
     "\\app_admin\\src\\app",
     "\\app_admin\\src\\app\\add-trip",
     "\\app_admin\\src\\app\\edit-trip",
     "\\app_admin\\src\\app\\services",
     "\\app_admin\\src\\app\\trip-card",
-    "\\app_admin\\src\\assets",
-    "\\app_api"
+    "\\app_admin\\src\\assets"
   ],
-  "SelectedNode": "\\app_admin\\src\\assets\\css\\styles.css",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
